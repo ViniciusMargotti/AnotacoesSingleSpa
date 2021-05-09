@@ -16,10 +16,9 @@ Select type to generate
  root config
 ``` 
 
-
-registerApplication
+ importar os micro-frontends
 ```bash 
-  importar os microfrontends
+ registerApplication
 ``` 
 
 
